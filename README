@@ -1,0 +1,6 @@
+Idea on how to streamgraph
+
+Read in data from csv presumably
+
+First column is time
+every following column is an object of some particular value.
